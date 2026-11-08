@@ -79,3 +79,6 @@ A: Interplay Entertainment  - Entertainment: Video Games
 Auto Quiz - Pizza 🧠
 Q: Which country has the abbreviation "CH"?
 A: Switzerland - Geography
+Auto Quiz - Burger 🧠
+Q: The protagonist of the hit game, Half-Life 2 is called:
+A: Gordon Freeman - Entertainment: Video Games
