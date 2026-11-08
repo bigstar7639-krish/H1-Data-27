@@ -70,3 +70,4 @@ Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make 
 Vegetable - midwestfruitvege0000fizz_w2r2 - The Midwest fruit and vegetable book
 Summer - bwb_Y0-ABT-313 - the robin's summer
 Summer - lincolncoinclubn06n4linc - Lincoln Coin Club Newsletter: Summer 1998
+Winter - winterterm0000john - Winter Term
