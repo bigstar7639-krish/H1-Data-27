@@ -91,3 +91,6 @@ A: 314.15 Inches - Science: Mathematics
 Auto Quiz - Summer 🧠
 Q: How many members are in the Japanese rock band SCANDAL?
 A: 4 - Entertainment: Music
+Auto Quiz - Winter 🧠
+Q: Which of the following is not a work authored by Fyodor Dostoevsky?
+A: Anna Karenina - Entertainment: Books
