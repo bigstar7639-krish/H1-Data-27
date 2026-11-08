@@ -16,3 +16,6 @@ A: FME-7 - Entertainment: Video Games
 Auto Quiz - Dragon 🧠
 Q: In Rust, how many Timed Explosive Charges does it take to destroy a Ladder Hatch?
 A: 1 - Entertainment: Video Games
+Auto Quiz - Chinese Girl 🧠
+Q: In flight systems, what does the initialism "TCAS" stand for?
+A: Traffic Collision Avoidance System - General Knowledge
