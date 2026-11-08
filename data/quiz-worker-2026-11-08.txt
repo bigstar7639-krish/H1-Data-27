@@ -112,3 +112,6 @@ A: The Nautilus - Entertainment: Books
 Auto Quiz - Park 🧠
 Q: What direction does the Statue of Liberty face?
 A: Southeast - General Knowledge
+Auto Quiz - Tiger 🧠
+Q: During what war did the "Cuban Missile Crisis" occur?
+A: Cold War - History
