@@ -106,3 +106,6 @@ A: Todd Chavez - Entertainment: Television
 Auto Quiz - Home 🧠
 Q: Which of the following Pokemon Types was present in the original games, Red and Blue?
 A: Ice - Entertainment: Video Games
+Auto Quiz - Garden 🧠
+Q: What was the name of Captain Nemo's submarine in "20,000 Leagues Under the Sea"?
+A: The Nautilus - Entertainment: Books
