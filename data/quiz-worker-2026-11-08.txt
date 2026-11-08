@@ -85,3 +85,6 @@ A: Gordon Freeman - Entertainment: Video Games
 Auto Quiz - Fruit 🧠
 Q: What is the only Millennium Prize Problem that has been solved so far?
 A: Poincaré conjecture - Science: Mathematics
+Auto Quiz - Vegetable 🧠
+Q: What is the area of a circle with a diameter of 20 inches if π= 3.1415?
+A: 314.15 Inches - Science: Mathematics
