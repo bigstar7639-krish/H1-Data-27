@@ -28,3 +28,6 @@ A: 299 - Entertainment: Video Games
 Auto Quiz - Saree 🧠
 Q: Adolf Hitler was born on which date?
 A: April 20, 1889 - History
+Auto Quiz - Biryani 🧠
+Q: Which of the following languages is used as a scripting language in the Unity 3D game engine?
+A: C# - Science: Computers
