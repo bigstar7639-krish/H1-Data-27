@@ -88,3 +88,6 @@ A: Poincaré conjecture - Science: Mathematics
 Auto Quiz - Vegetable 🧠
 Q: What is the area of a circle with a diameter of 20 inches if π= 3.1415?
 A: 314.15 Inches - Science: Mathematics
+Auto Quiz - Summer 🧠
+Q: How many members are in the Japanese rock band SCANDAL?
+A: 4 - Entertainment: Music
