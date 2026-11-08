@@ -82,3 +82,6 @@ A: Switzerland - Geography
 Auto Quiz - Burger 🧠
 Q: The protagonist of the hit game, Half-Life 2 is called:
 A: Gordon Freeman - Entertainment: Video Games
+Auto Quiz - Fruit 🧠
+Q: What is the only Millennium Prize Problem that has been solved so far?
+A: Poincaré conjecture - Science: Mathematics
