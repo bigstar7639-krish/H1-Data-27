@@ -31,3 +31,6 @@ A: April 20, 1889 - History
 Auto Quiz - Biryani 🧠
 Q: Which of the following languages is used as a scripting language in the Unity 3D game engine?
 A: C# - Science: Computers
+Auto Quiz - Diwali 🧠
+Q: In the Homestuck Series, what is the alternate name for the Kingdom of Lights?
+A: Prospit - Entertainment: Comics
