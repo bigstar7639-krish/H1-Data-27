@@ -94,3 +94,6 @@ A: 4 - Entertainment: Music
 Auto Quiz - Winter 🧠
 Q: Which of the following is not a work authored by Fyodor Dostoevsky?
 A: Anna Karenina - Entertainment: Books
+Auto Quiz - Monsoon 🧠
+Q: Which European city has the highest mileage of canals in the world?
+A: Birmingham - Geography
