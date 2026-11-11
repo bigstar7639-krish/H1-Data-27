@@ -40,3 +40,7 @@ Movie - BobbyMovie_20170510_0356 - Bobby Movie
 Movie - thatmovieinyourh0000davi - That Movie in Your Head: Guide to Improvising Stories on Video
 Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb
 Temple - isbn_9782811219772 - l'oracle du temple de la jungle
+Flower - newflowerarrange0000doro - The New Flower Arrangement for Everyone
+Flower - ghostflower0000jaff - Ghost flower
+Sea - bwb_T5-ARI-200 - We Didnt mean to go to sea
+Sea - neptunesdomainpo0000mart - neptune's domain: a political geography of the sea
