@@ -51,3 +51,5 @@ Book - Unsplash - https://source.unsplash.com/800x600/?Book%20story
 Book - Openverse - https://www.flickr.com/photos/36733916@N07/8508313605
 Book - Wikimedia - https://commons.wikimedia.org/wiki/File:Book-open-solid.svg
 Book - Openverse - https://www.flickr.com/photos/62030038@N02/8401463546
+Book - Openverse - https://www.flickr.com/photos/34707594@N00/2167241867
+Book - Wikimedia - https://commons.wikimedia.org/wiki/File:Russian_story_book_1916_illustration_f024.jpg
